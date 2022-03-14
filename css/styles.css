@@ -107,6 +107,11 @@ img {
   background: rgba(0, 0, 0, 0.6);
 }
 
+.hero.blog {
+  background: url(../images/home/blog.jpg) no-repeat center center/cover;
+  height: 30vh;
+}
+
 .hero * {
   z-index: 10;
 }
